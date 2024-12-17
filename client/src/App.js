@@ -18,6 +18,7 @@ function App() {
         <p>{!data ? "Loading..." : data}</p>
       </header>
     </div>
+    
   );
 }
 
